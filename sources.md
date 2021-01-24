@@ -1,6 +1,9 @@
-QA meetup 3.0 - QAчественные меры
-======
+# QA meetup 3.0 - QAчественные меры
+
+> Для связи: [Linkedin](https://www.linkedin.com/in/assel-abilmazhinova/).
+
 Всем привет. Здесь дополнительно собраны интересные материалы для самостоятельного изучения. Есть материалы на русском и английском языках.
+
 
 ### Постановка задач - RUS
 1. [Идеальная постановка задачи — какая она](https://spark.ru/startup/adn-digital-studio/blog/28271/idealnaya-postanovka-zadachi-kakaya-ona)
