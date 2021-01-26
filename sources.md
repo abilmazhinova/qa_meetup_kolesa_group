@@ -27,3 +27,10 @@
 ### Postmortem - ENG
 1. [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 2. [IT Post Mortem Guidelines](https://kwa29.medium.com/it-post-mortem-guidelines-77214c6e7e34)
+
+
+### О bus-factor - RUS
+1. [Как считать/выявлять bus factor на проекте](https://medium.com/@lananovikova/%D0%BA%D0%B0%D0%BA-%D1%81%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-%D0%B2%D1%8B%D1%8F%D0%B2%D0%BB%D1%8F%D1%82%D1%8C-bus-factor-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5-19f351301abc)
+
+### О bus-factor - ENG
+1. [What’s the bus factor and 7 ways to increase it](https://medium.com/management-matters/whats-the-bus-factor-of-your-team-and-how-to-increase-it-8bdfb63361fc)
